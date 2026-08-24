@@ -1,2 +1,6 @@
-Stable Diffusion model with transformers 
-YouTube (VIT, DIT,MMDIT)(https://www.youtube.com/watch?v=jNPmSjrxGtY)
+*Stable Diffusion model with transformers 
+*YouTube (VIT, DIT,MMDIT)(https://www.youtube.com/watch?v=jNPmSjrxGtY)
+*Larger Training Loop (Introduction/training_example)
+*Test DreamBooth Training in notebook (Introduction/sd_dreambooth_training)
+*Datasets:
+  **https://huggingface.co/huggan/datasets
