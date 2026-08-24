@@ -1,0 +1,2 @@
+Stable Diffusion model with transformers 
+YouTube (VIT, DIT,MMDIT)(https://www.youtube.com/watch?v=jNPmSjrxGtY)
