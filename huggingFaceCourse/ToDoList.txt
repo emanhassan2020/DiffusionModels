@@ -4,6 +4,7 @@
   ** provide UI to sample the trained model (DONE)
   ** Use guidance to generate faces with different guidance prompt (hair color, eyes, gender) 
   ** fine-tune on cartoon faces and animi face 
+  ** test google trained model (DDPMPipeline.from_pretrained("google/ddpm-celebahq-256")) 
 *Test DreamBooth Training in notebook (Introduction/sd_dreambooth_training)
 *Datasets:
   **https://huggingface.co/huggan/datasets
