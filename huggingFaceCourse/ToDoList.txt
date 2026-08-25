@@ -1,7 +1,12 @@
 *Stable Diffusion model with transformers 
-*YouTube (VIT, DIT,MMDIT)(https://www.youtube.com/watch?v=jNPmSjrxGtY)
+*YouTube (VIT, DIT,MMDIT)(https://www.youtube.com/watch?v=jNPmSjrxGtY) (DONE)
 *Larger Training Loop (Introduction/training_example)
-  ** provide UI to sample the trained model 
+  ** provide UI to sample the trained model (DONE)
+  ** Use guidance to generate faces with different guidance prompt (hair color, eyes, gender) 
+  ** fine-tune on cartoon faces and animi face 
 *Test DreamBooth Training in notebook (Introduction/sd_dreambooth_training)
 *Datasets:
   **https://huggingface.co/huggan/datasets
+  ** Cartoon faces 
+  ** Animie faces 
+  
