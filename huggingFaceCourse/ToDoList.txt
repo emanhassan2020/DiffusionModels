@@ -10,4 +10,9 @@
   **https://huggingface.co/huggan/datasets
   ** Cartoon faces 
   ** Animie faces 
+* Papers to study:
+  ** GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+  ** eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers
+  ** Denoising Diffusion Implicit Models
+
   
