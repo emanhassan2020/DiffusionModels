@@ -9,7 +9,8 @@
 *Datasets:
   **https://huggingface.co/huggan/datasets
   ** Cartoon faces 
-  ** Animie faces 
+  ** Animie faces (https://huggingface.co/datasets/Norod78/Vintage-Faces-FFHQAligned)
+  ** Vintage faces (https://huggingface.co/datasets/huggan/anime-faces)
 * Papers to study:
   ** GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
   ** eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers
