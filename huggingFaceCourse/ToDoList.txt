@@ -9,6 +9,7 @@
 *Exponential moving average fine-tuning 
 * Weights & Biases for model training monitoring 
 * Control Net: https://github.com/lllyasviel/ControlNet 
+               https://github.com/Abhinand-p/FoggyGen-ControlNet-LoRA
 *Datasets:
   **https://huggingface.co/huggan/datasets
   ** Cartoon faces 
