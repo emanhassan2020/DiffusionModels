@@ -20,5 +20,8 @@
   ** eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers
   ** Denoising Diffusion Implicit Models
 
+*VLM models 
+*intelligent agents  
+
 
   
