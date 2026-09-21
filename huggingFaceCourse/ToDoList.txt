@@ -22,6 +22,8 @@
 
 *VLM models 
 *intelligent agents  
+*ControllNet with florece model 
+*ComfyUI 
 
 
   
